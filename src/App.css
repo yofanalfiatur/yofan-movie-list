@@ -28,9 +28,14 @@
 .Movie {
   background-color: #3B3B3B;
 }
+.Movie-wrap {
+  padding: 2rem;
+}
+.Movie-text {
+  color: white;
+}
 .Movie-heading {
   margin: 0%;
-  padding: 2rem;
   color: white;
   text-transform: uppercase;
 }

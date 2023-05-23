@@ -41,7 +41,10 @@ const App = () => {
         <h1 className="Header-logotext">Netplik</h1>
       </header>
       <section className="Movie">
-        <h1 className="Movie-heading">Pura2 Nye Netplik</h1>     
+        <div className="Movie-wrap">
+          <h1 className="Movie-heading">Pura2 Nye Netplik</h1> 
+          <p className='Movie-text'>Senggol Dong gess,.... tapi minta tolong jangan keseringan pake searching yagesyak, kasian API gua</p>
+        </div>
           <input 
             className="Movie-search" 
             placeholder="Infonya Masse ?"
